@@ -50,7 +50,7 @@ body {
 .hero {
   height: 100vh;
   background: linear-gradient(rgba(227, 192, 205, 0.6),rgba(240, 222, 228, 0.6)), 
-              url('/Images/5816415536433711507.jpg') center/cover no-repeat ;
+              url('../Images/5816415536433711507.jpg') center/cover no-repeat ;
               color: #ffffff;
             
 }
